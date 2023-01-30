@@ -2,6 +2,8 @@
 
 # STATUS: 🏁WORK IN PROGRESS
 
+### Download - [Latest Release](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/WAD-DRON12261-DM-Pack/releases/latest/download/DRON12261_DM_Pack_v4.wad)
+
 ## Resources in use:
 - [32in24-15-tex_v2.wad](https://esselfortium.net/wasd/32in24-15_tex_v2.zip)
 
