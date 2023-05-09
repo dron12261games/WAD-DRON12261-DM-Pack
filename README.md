@@ -16,18 +16,18 @@
 # Screenshots:
 
 ## MAP01: Unloading Sector
-![MAP01 Screen1](https://i.ibb.co/GVVxns0/Screenshot-Doom-20230326-101118.png)
-![MAP01 Screen2](https://s1.hostingkartinok.com/uploads/images/2023/03/cc40af11dc475e013420bf8dc9be347c.png)
-![MAP01 Screen3](https://i.ibb.co/gj5Rg7K/Screenshot-Doom-20230326-101142.png)
-![MAP01 Screen4](https://i.ibb.co/Gtyk7G1/Screenshot-Doom-20230326-101151.png)
+![MAP01 Screen1](./screens/1.png)
+![MAP01 Screen2](./screens/2.png)
+![MAP01 Screen3](./screens/3.png)
+![MAP01 Screen4](./screens/4.png)
 
 ## MAP02: Offensive Point
-![MAP02 Screen1](https://i.ibb.co/ZVvbd29/Screenshot-Doom-20230326-101206.png)
-![MAP02 Screen2](https://i.ibb.co/zVxDr5h/Screenshot-Doom-20230326-101222.png)
-![MAP02 Screen3](https://s1.hostingkartinok.com/uploads/images/2023/03/f62a58654ab91b172191b96acaf321e5.png)
-![MAP02 Screen4](https://i.ibb.co/MBJR0Fk/Screenshot-Doom-20230326-101241.png)
+![MAP02 Screen1](./screens/5.png)
+![MAP02 Screen2](./screens/6.png)
+![MAP02 Screen3](./screens/7.png)
+![MAP02 Screen4](./screens/8.png)
 
 ## MAP03: Dead Simple Remake
-![MAP03 Screen1](https://i.ibb.co/WBP6VYX/Screenshot-Doom-20230326-101257.png)
-![MAP03 Screen2](https://i.ibb.co/M1yg7kt/Screenshot-Doom-20230326-101305.png)
-![MAP03 Screen3](https://i.ibb.co/mGgYPYS/Screenshot-Doom-20230326-101313.png)
+![MAP03 Screen1](./screens/9.png)
+![MAP03 Screen2](./screens/10.png)
+![MAP03 Screen3](./screens/11.png)

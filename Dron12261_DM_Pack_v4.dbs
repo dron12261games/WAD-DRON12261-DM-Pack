@@ -27,8 +27,8 @@ maps
 				requiredarchives = "";
 			}
 		}
-		viewpositiony = 451.1237f;
-		viewpositionx = -293.6291f;
+		viewpositiony = 549.8188f;
+		viewpositionx = -61.56071f;
 		
 		testprecommand
 		{
@@ -52,7 +52,7 @@ maps
 			background = "";
 			backoffsety = 0;
 		}
-		viewscale = 2.23193f;
+		viewscale = 1.716862f;
 		
 		reloadresourceprecommand
 		{
@@ -63,6 +63,44 @@ maps
 		defaulttoptexture = "TEKWALL6";
 		overridebottomtexture = false;
 		defaultbottomtexture = "TEKWALL6";
+		defaultfloortexture = "FLOOR7_1";
+		overrideceilheight = false;
+		overridebrightness = false;
+		
+		testpostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		overridefloorheight = false;
+		overridetoptexture = false;
+		uselongtexturenames = false;
+		overridefloortexture = false;
+		
+		reloadresourcepostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		
+		plugins
+		{
+			
+			threedfloormode
+			{
+				
+				controlsectorarea
+				{
+					usecustomtagrange = false;
+					outerleft = 1152;
+					outerright = 1664;
+					outertop = 1024;
+					outerbottom = 512;
+				}
+			}
+		}
 		
 		scriptdocuments
 		{
@@ -78,7 +116,244 @@ maps
 				activetab = true;
 			}
 		}
-		defaultfloortexture = "FLOOR7_1";
+	}
+	
+	MAP04
+	{
+		defaultwalltexture = "FIREBLU1";
+		overridemiddletexture = false;
+		defaultceiltexture = "LAVA1";
+		overrideceiltexture = false;
+		custombrightness = 196;
+		scriptcompiler = "zdaemon_acs.cfg";
+		
+		resources
+		{
+			
+			resource0
+			{
+				type = 0;
+				location = "D:\\1_UNLIMITED_POWER_1\\Doom_Things\\DOOM2.WAD";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+				requiredarchives = "";
+			}
+		}
+		viewpositiony = 817.7322f;
+		viewpositionx = -387.0931f;
+		
+		testprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		customceilheight = 128;
+		customfloorheight = 0;
+		
+		grid
+		{
+			backoffsetx = 0;
+			backsource = 0;
+			gridoriginy = 0;
+			backscaley = 100;
+			gridrotate = 0;
+			backscalex = 100;
+			gridoriginx = 0;
+			gridsize = 64;
+			background = "";
+			backoffsety = 0;
+		}
+		viewscale = 0.76552f;
+		
+		reloadresourceprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		defaulttoptexture = "FIREBLU1";
+		overridebottomtexture = false;
+		defaultbottomtexture = "FIREBLU1";
+		defaultfloortexture = "LAVA1";
+		overrideceilheight = false;
+		overridebrightness = false;
+		
+		testpostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		overridefloorheight = false;
+		overridetoptexture = false;
+		uselongtexturenames = false;
+		overridefloortexture = false;
+		
+		reloadresourcepostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		
+		scriptdocuments
+		{
+			
+			document0
+			{
+				filename = "SCRIPTS";
+				hash = 3469170009;
+				resource;
+				tabtype = 0;
+				scripttype = 1;
+				caretposition = 200;
+				activetab = true;
+			}
+		}
+	}
+	
+	MAP02
+	{
+		defaultwalltexture = "SUPPORT3";
+		overridemiddletexture = false;
+		defaultceiltexture = "CEIL5_2";
+		overrideceiltexture = false;
+		custombrightness = 196;
+		scriptcompiler = "zdaemon_acs.cfg";
+		
+		resources
+		{
+			
+			resource0
+			{
+				type = 0;
+				location = "D:\\1_UNLIMITED_POWER_1\\Doom_Things\\DOOM2.WAD";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+				requiredarchives = "";
+			}
+		}
+		viewpositiony = -423.4088f;
+		viewpositionx = 1028.17f;
+		
+		testprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		customceilheight = 128;
+		customfloorheight = 0;
+		
+		grid
+		{
+			backoffsetx = 0;
+			backsource = 0;
+			gridoriginy = 0;
+			backscaley = 100;
+			gridrotate = 0;
+			backscalex = 100;
+			gridoriginx = 0;
+			gridsize = 128;
+			background = "";
+			backoffsety = 0;
+		}
+		viewscale = 0.3642752f;
+		
+		reloadresourceprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		defaulttoptexture = "SUPPORT3";
+		overridebottomtexture = false;
+		defaultbottomtexture = "SUPPORT3";
+		defaultfloortexture = "CRATOP1";
+		overrideceilheight = false;
+		overridebrightness = false;
+		
+		testpostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		overridefloorheight = false;
+		overridetoptexture = false;
+		uselongtexturenames = false;
+		overridefloortexture = false;
+		
+		reloadresourcepostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+	}
+	
+	MAP03
+	{
+		defaultwalltexture = "LITE4";
+		overridemiddletexture = false;
+		defaultceiltexture = "CEIL5_G4";
+		overrideceiltexture = false;
+		custombrightness = 196;
+		scriptcompiler = "zdaemon_acs.cfg";
+		
+		resources
+		{
+			
+			resource0
+			{
+				type = 0;
+				location = "D:\\1_UNLIMITED_POWER_1\\Doom_Things\\DOOM2.WAD";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+				requiredarchives = "";
+			}
+		}
+		viewpositiony = 78.58527f;
+		viewpositionx = -10.28502f;
+		
+		testprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		customceilheight = 128;
+		customfloorheight = 0;
+		
+		grid
+		{
+			backoffsetx = 0;
+			backsource = 0;
+			gridoriginy = 0;
+			backscaley = 100;
+			gridrotate = 0;
+			backscalex = 100;
+			gridoriginx = 0;
+			gridsize = 128;
+			background = "";
+			backoffsety = 0;
+		}
+		viewscale = 0.3642766f;
+		
+		reloadresourceprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		defaulttoptexture = "LITE4";
+		overridebottomtexture = false;
+		defaultbottomtexture = "LITE4";
+		defaultfloortexture = "SUP916AF";
 		overrideceilheight = false;
 		overridebrightness = false;
 		
