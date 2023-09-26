@@ -1,6 +1,6 @@
 # DRON12261 DM Pack [4 maps, HEXEN Format, DOOM 2]
 
-# STATUS: 📦EARLY RELEASE
+# STATUS: ✅RELEASED
 
 ### Download - [Latest Release](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/WAD-DRON12261-DM-Pack/releases/latest/download/DRON12261_DM_Pack_v4.wad)
 
